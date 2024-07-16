@@ -24,3 +24,14 @@ cd sticky-notes-app
 
 
 python main.py
+
+
+Usage
+Open the application to see the main dashboard.
+Use the 'Add Note' button to create a new sticky note.
+Click on any note to edit its content.
+Use the 'Delete' button to remove a note.
+
+
+Credits
+This project was developed by Terrell Meggoe. Special thanks for the guidance and inspiration
